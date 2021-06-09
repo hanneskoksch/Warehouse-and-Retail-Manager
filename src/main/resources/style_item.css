@@ -1,0 +1,18 @@
+#success {
+    -fx-background-color: #1bb100;
+    -fx-text-fill: white;
+}
+
+#secondaryButton {
+    -fx-background-color: #f44336;
+    -fx-text-fill: white;
+}
+
+#titleLabel {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+#PriceTotal {
+    -fx-font-weight: bold;
+}
